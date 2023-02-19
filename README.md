@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Anuj! 👋</h1>
 <h2 align="center">Software Engineer | Builder | Tech enthusiast</h2>
     <h4 align="center">✨ Currently building a restaurant-tech product in AI SaaS space</h4>
-    <h4 align="center">📩 Reach me at anuj.badhwar96@gmail.com.</h4>
+    <h4 align="center">📩 Reach me at anuj.badhwar96@gmail.com</h4>
     <h4 align="center">🤗 Fun fact: I'm always high on Coffee😅☕ </h4>
 <hr/>
 
